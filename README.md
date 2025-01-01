@@ -1,5 +1,4 @@
-# A-Level Computer Science Coursework
-Hospital Database
+# A-Level Computer Science Coursework: Hospital Database
 
 This repository contains my A Level Computer Science Coursework - a project that focuses on the development of a database for storing the details of hospital patients. The database is comprised of a series of inputs which consist of basic details about patients, such as their name, age, and NHS ID. Furthermore, a graph is implemented since visualisation enables easy data analysis. This will enable the quick identification of pattens and trends.
 
